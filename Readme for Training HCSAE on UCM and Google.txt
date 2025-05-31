@@ -31,4 +31,4 @@ GoogleSecondLayer.m
 To run the second layer of HCSAE for Google dataset, you could run the command:
 GoogleSecondLayer.m
 
-4. To test the trained results for UCM and Google dataset, download the HCSAE_data.zip, and run the UCMPoolTest.m or GooglePoolTest.m in the "data_already_run" folder.
+4. To test the trained results for UCM and Google dataset, download the HCSAE_data.zip from Google Drive: https://drive.google.com/file/d/1l04T-f_pCfe1iHRRUJqtZJhwdaBccsMu/view?usp=drive_link, and run the UCMPoolTest.m or GooglePoolTest.m in the "data_already_run" folder.
