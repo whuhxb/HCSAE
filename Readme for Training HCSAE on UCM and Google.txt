@@ -5,7 +5,7 @@ git clone https://github.com/whuhxb/HCSAE.git
 2. Then, you could download the UCM dataset in zip from the given link, and put the data of "data_for_training" into the folder HCSAE_UCM to train the UCM dataset. 
 The data in the folder "data_already_run" provides the trained weights and other related results for the UCM dataset, you can also test the result from the second CSAE layer with UCMPoolTest.m file.
 
-HCSAE is an unsupervised two-layer "SAE-Convlution-Pooling" learning framework. To run the first layer of "SAE-Convolution-Pooling", you could run the command:
+HCSAE is an unsupervised two-layer "SAE-Convolution-Pooling" learning framework. To run the first layer of "SAE-Convolution-Pooling", you could run the command:
 
 UCMSingleLayer.m
 
